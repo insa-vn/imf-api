@@ -1,2 +1,3 @@
-config.json
 
+# Ignore config files
+resources/config.json
