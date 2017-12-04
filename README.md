@@ -2,4 +2,4 @@
 ImageFights API
 
 Run with: 
-<p>go run imf-api.go datatypes.go</p>
+<p>go run imf-web-api.go datatypes.go</p>
