@@ -1,0 +1,19 @@
+{
+    "database": {
+        "username": "admin",
+		"password": "11235813",
+		"address": "insa-vn.cluqt19clm04.eu-west-2.rds.amazonaws.com:3306", 
+		"dbName": "ImagesFight"
+    },
+
+    "net": {
+        "port": ":8080",
+        "queryPath": "/api/get-img-urls",
+        "queryMethod": "GET"
+    },
+
+    "query": {
+        "character": "name",
+        "nbImgs": "nb"
+    }
+}
