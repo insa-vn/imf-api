@@ -1,9 +1,9 @@
 {
     "database": {
-        "username": "admin",
-		"password": "11235813",
-		"address": "insa-vn.cluqt19clm04.eu-west-2.rds.amazonaws.com:3306", 
-		"dbName": "ImagesFight"
+        "username": "xxxx",
+	"password": "xxxx",
+	"address": "xxxx", 
+	"dbName": "xxxx"
     },
 
     "net": {
